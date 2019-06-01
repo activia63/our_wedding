@@ -1,1 +1,4 @@
-# our_wedding
+# WeddingLanding
+Wedding invitation website.
+
+Dependencies - JQuery
