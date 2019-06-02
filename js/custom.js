@@ -60,8 +60,8 @@ function setGuests() {
         guests.names[0] == 'Оля' ||
         guests.names[0] == 'Лиза' ||
         guests.names[0] == 'Наташа' ||
-        guests.names[0] == 'Тамара Васильевна' ||
-        guests.names[0] == 'Нина Ивановна' ||
+        guests.names[0] == 'тетя Тамара' ||
+        guests.names[0] == 'бабушка Нина' ||
         guests.names[0] == 'Саша') {
       dearEl.textContent  = 'Дорогая'
       you.textContent = 'тебя'
