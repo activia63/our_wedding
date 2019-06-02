@@ -1396,7 +1396,8 @@ h1 {
 	}
 
 	body {
-		background: /*#141313*/ #E6E6FA;
+		/*background: #141313 #E6E6FA;*/
+		background-image: url (.../img/piony.jpg);
 	}
 
 
