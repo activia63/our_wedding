@@ -897,7 +897,7 @@ h1 {
   display: -webkit-flex;
   justify-content: center;
   -webkit-justify-content: center;
-  line-height: /*50px*/ 1,5;
+  line-height: /*50px*/ 2;
 }
 
 .sixth-map-pc { display: initial; }
@@ -912,7 +912,7 @@ h1 {
 .sixth-desc {
   margin: auto 40px;
   font-size: 24px;
-  line-height: /*70px*/ 1.5;
+  line-height: /*70px*/ 2;
 }
 
 .sixth-desc-comm { font-size: 20px; }
