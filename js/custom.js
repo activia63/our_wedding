@@ -81,7 +81,7 @@ function setGuests() {
 }
 
 function setCounter() {
-  var wdDate = new Date('Sat Jun 27 2019 17:30:00 GMT+0300 (FET)')
+  var wdDate = new Date('Sat  Jul 27 2019 17:30:00 GMT+0300 (FET)')
   dayCalc(wdDate)
   setInterval(function() {
     dayCalc(wdDate)
