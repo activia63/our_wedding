@@ -1396,12 +1396,12 @@ h1 {
 	}
 
 	body {
-		background: #141313;
+		background: /*#141313*/ #E6E6FA;
 	}
 
 
 	body, input, select, textarea {
-		color: #f7f3f2; /*цвет текста в банере*/
+		color: /*#f7f3f2*/ #141313; /*цвет текста в банере*/
 		font-family: "Open Sans", Helvetica, sans-serif;
 		font-size: 15pt;
 		font-weight: 400;
