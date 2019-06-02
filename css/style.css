@@ -912,14 +912,14 @@ h1 {
 .sixth-desc {
   margin: auto 40px;
   font-size: 24px;
-  line-height: /*70px*/ 1,5;
+  line-height: /*70px*/ 1.5;
 }
 
 .sixth-desc-comm { font-size: 20px; }
 
 .sixth-desc-cont {
   font-size: 18px;
-  line-height: /*40px*/ 1,5;
+  line-height: /*40px*/ 1.5;
 }
 
 /* STYLES FOR TABLET */
