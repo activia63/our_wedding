@@ -897,7 +897,7 @@ h1 {
   display: -webkit-flex;
   justify-content: center;
   -webkit-justify-content: center;
-  line-height: 50px;
+  line-height: /*50px*/ 1,5;
 }
 
 .sixth-map-pc { display: initial; }
@@ -912,14 +912,14 @@ h1 {
 .sixth-desc {
   margin: auto 40px;
   font-size: 24px;
-  line-height: 70px;
+  line-height: /*70px*/ 1,5;
 }
 
 .sixth-desc-comm { font-size: 20px; }
 
 .sixth-desc-cont {
   font-size: 18px;
-  line-height: 40px;
+  line-height: /*40px*/ 1,5;
 }
 
 /* STYLES FOR TABLET */
