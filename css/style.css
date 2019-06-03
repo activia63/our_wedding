@@ -399,10 +399,10 @@ h1 {
   font-size: 46px;
 }
 
-/*.first-footer {
-  background-image: url('../img/bg1-3.png');
+.first-footer {
+  background-image: url('../img/snow.png');
   height: 150px;
-  background-size: cover;*/
+  background-size: cover;
 }
 
 .first-table-wrapper {
