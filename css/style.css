@@ -731,7 +731,7 @@ h1 {
 				-webkit-transition-delay: 0.25s;
 				-ms-transition-delay: 0.25s;
 				transition-delay: 0.25s;
-				background: #fff;
+				background: /*#fff*/ #000000;
 				content: '';
 				display: block;
 				height: 2px;
